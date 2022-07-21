@@ -9,5 +9,18 @@
  */
 
 {
+    "apps/to-do": {
+        "scope": "",
+        "version": "",
+        "defaultScope": "my-org.tasks-scope",
+        "mainFile": "index.ts",
+        "rootDir": "tasks-scope/apps/to-do",
+        "config": {
+            "teambit.react/react": {},
+            "teambit.envs/envs": {
+                "env": "teambit.react/react"
+            }
+        }
+    },
     "$schema-version": "14.9.0"
 }
