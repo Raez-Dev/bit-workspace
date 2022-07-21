@@ -22,5 +22,18 @@
             }
         }
     },
+    "envs/my-react": {
+        "scope": "",
+        "version": "",
+        "defaultScope": "my-org.tasks-scope",
+        "mainFile": "index.ts",
+        "rootDir": "tasks-scope/envs/my-react",
+        "config": {
+            "teambit.envs/env": {},
+            "teambit.envs/envs": {
+                "env": "teambit.envs/env"
+            }
+        }
+    },
     "$schema-version": "14.9.0"
 }
