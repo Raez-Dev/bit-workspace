@@ -16,9 +16,9 @@
         "mainFile": "index.ts",
         "rootDir": "tasks-scope/apps/to-do",
         "config": {
-            "teambit.react/react": {},
+            "my-org.tasks-scope/envs/my-react": {},
             "teambit.envs/envs": {
-                "env": "teambit.react/react"
+                "env": "my-org.tasks-scope/envs/my-react"
             }
         }
     },
